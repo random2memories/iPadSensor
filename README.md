@@ -1,2 +1,0 @@
-# iPadSensor
-Created with CodeSandbox
